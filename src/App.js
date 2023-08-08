@@ -12,7 +12,7 @@ import { useCityStore } from './store/cityStore';
 import Heading from './components/heading';
 
 // API Key and URL for OpenWeatherMap API
-const API_KEY = "a462392098dcbde0ab5c6b79af7f31d1";
+const API_KEY = process.env.API_KEY;
 const API_URL = 'https://api.openweathermap.org/data/2.5/weather';
 
 function App() {
