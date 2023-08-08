@@ -1,26 +1,42 @@
-.beautiful-input-container{
-    display: flex;
-    justify-content: center;
-    flex-direction: row;
-    gap: 12px;
-    width: 100%;
-    align-items: center;
-  }
-.beautiful-input{
-height: 56px;
-border-radius: 4px;
-position: relative;
-background-color: rgba(255,255,255);
-transition: 0.3s all;
+/* src/css/beautiful-input.css */
 
+/* Container for the beautiful input and search button */
+.beautiful-input-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+  width: 100%;
 }
 
+
+/* Beautiful input element */
+.beautiful-input {
+  height: 56px;
+  border-radius: 10px;
+  position: relative;
+  background-color: rgba(255, 255, 255);
+  transition: 0.3s all;
+}
+
+/* Hover effect for the beautiful input */
 .beautiful-input:hover {
-box-shadow: 0px 4px 20px 0px rgba(0, 0, 0, 0.05);
+  box-shadow: 0px 4px 20px 0px rgba(0, 0, 0, 0.05);
 }
+
+/* Styling for the input text field */
 input[type='text'] {
-font-size: 24px;
+  font-size: 24px;
 }
-.search-button{
-    cursor: pointer;
-  }
+
+/* .search-button - Documentation */
+
+/* 
+   This section defines styles for a search button within the beautiful input container.
+   It adds a cursor pointer to indicate interactivity.
+*/
+
+/* Search button */
+.search-button {
+  cursor: pointer;
+}
