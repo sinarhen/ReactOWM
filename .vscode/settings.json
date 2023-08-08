@@ -1,0 +1,7 @@
+{
+    "docify.commentService.docstringFormat": "JavaDoc",
+    "docify.commentService.programmingLanguage": "auto-detect",
+    "docify.commentService.inlineComments": false,
+    "docify.commentService.moreExpressiveComments": true,
+    "docify.commentService.sidePanelReviewMode": false
+}

@@ -1,0 +1,15 @@
+.error-alert{
+    width: 100%;
+    height: auto;
+    padding: 5px 10px 10px 5px;
+    border-radius: 10px;
+    background-color: pink;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+.error-text{
+padding: 1px;
+
+}
+  
