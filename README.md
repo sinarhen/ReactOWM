@@ -1,6 +1,7 @@
 # Weather App
 
-![Project Screenshot](screenshots/screenshot0.png)
+![Project Screenshot](https://github.com/sinarhen/ReactOWM/assets/105736826/116c38d6-5a1c-450c-a0e7-8fc1276252d8)
+
 
 ## Description
 
@@ -39,10 +40,18 @@ The Weather App is a web application that allows users to search for weather inf
 
 ## Screenshots
 
-![First we see after open the app](screenshots/screenshot1.png)
-![Type any city in input](screenshots/screenshot2.png)
-![See the result!](screenshots/screenshot3.png)
-![Can click on Search another city and try few more times](screenshots/screenshot4.png)
+### First we see after open the app
+![First we see after open the app](https://github.com/sinarhen/ReactOWM/assets/105736826/d23d6ab6-8911-4c85-978a-bbf5b98e5d53)
+
+### Type any city in input
+![Type any city in input](https://github.com/sinarhen/ReactOWM/assets/105736826/d52958b7-b915-4781-acf6-744fe6093a5c)
+
+### See the result 
+![See the result!](https://github.com/sinarhen/ReactOWM/assets/105736826/5edbdbb0-f8a1-4989-8726-6f7cf8810d3f)
+
+### Can click on Search another city and try few more times
+![Can click on Search another city and try few more times](https://github.com/sinarhen/ReactOWM/assets/105736826/da8767aa-41f3-402b-a133-ab5587ec5107)
+
 
 ## License
 
