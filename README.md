@@ -53,10 +53,6 @@ The Weather App is a web application that allows users to search for weather inf
 ![Can click on Search another city and try few more times](https://github.com/sinarhen/ReactOWM/assets/105736826/da8767aa-41f3-402b-a133-ab5587ec5107)
 
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 - [OpenWeatherMap](https://openweathermap.org/) for providing the weather data API.
